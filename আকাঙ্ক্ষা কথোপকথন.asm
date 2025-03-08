@@ -12,6 +12,7 @@ reply dw 'stupid, see your face on mirror $'
 last dw 'ouch, :( $'
 .code                             
 main proc
+;note this is fake story, don't take this seriously brother, just for fun
     
     mov ax, @data  
     mov ds, ax
